@@ -6,14 +6,8 @@ Schools need an early, explainable way to identify students who may fail before 
 ## Real-world impact
 An early warning system can help teachers and counselors prioritize support, reduce late interventions, and focus conversations on actionable signals such as absences, prior failures, study time, and support access. The model intentionally excludes `G1`, `G2`, and `G3` as features to avoid grade leakage.
 
-## Tech stack (with badges)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![pandas](https://img.shields.io/badge/pandas-data%20wrangling-150458)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E)
-![XGBoost](https://img.shields.io/badge/XGBoost-gradient%20boosting-FF6600)
-![SHAP](https://img.shields.io/badge/SHAP-explainability-111111)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-SQL-red)
-![Streamlit](https://img.shields.io/badge/Streamlit-dashboard-FF4B4B)
+### Tech Stack
+Python, Pandas, Scikit-learn, XGBoost, SHAP, SQLAlchemy, Streamlit
 
 ## Project architecture (text diagram showing pipeline)
 ```text
